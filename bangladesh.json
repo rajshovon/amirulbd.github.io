@@ -1,94 +1,567 @@
 [
-    {
-        "category": "Top Newspaper",
-        "items":
-        [
-            {
-                "name": "Daily Prothom alo",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.prothomalo.com/",
-                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/prothom-alo.com.jpg",
-                "category": "Most Popular",
-                "language": "Bangla"
-            },
-             {
-                "name": "Ittefaq",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.ittefaq.com.bd/",
-                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/ittefaq.com.bd.jpg",
-                "category": "Most Popular",
-                "language": "Bangla"
-            }
-        ]
-    },
-    {
-        "category": "Most Popular",
-        "items":
-        [
-            {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            },
-             {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            },
-             {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            }
-        ]
-    },
-    {
-        "category": "Most Popular",
-        "items":
-        [
-            {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            },
-             {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            },
-             {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            },
-             {
-                "name": "The New York Times",
-                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
-                "category": "Most Popular",
-                "language": "English"
-            }
-        ]
-    }
-    
-    
+  {
+    "category": "ONLINE",
+    "items": [
+      {
+        "name": "BD News 24",
+        "description": "",
+        "url": "https://bangla.bdnews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bangla.bdnews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla News 24",
+        "description": "",
+        "url": "https://www.banglanews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/banglanews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Jago News 24",
+        "description": "",
+        "url": "https://www.jagonews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/jagonews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Priyo",
+        "description": "",
+        "url": "https://www.priyo.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/priyo.com.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Amadershomoy",
+        "description": "",
+        "url": "http://ww38.amadershomoys.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/amadershomoys.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bd24live",
+        "description": "",
+        "url": "https://www.bd24live.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bd24live.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Risingbd",
+        "description": "",
+        "url": "https://www.risingbd.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/risingbd.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Daily Bangladesh",
+        "description": "",
+        "url": "https://daily-bangladesh.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/daily-bangladesh.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Gonews 24",
+        "description": "",
+        "url": "https://www.gonews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/gonews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dhaka Post",
+        "description": "",
+        "url": "https://www.dhakapost.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dhaka-post.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla Tribune",
+        "description": "",
+        "url": "https://www.banglatribune.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/banglatribune.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla Insider",
+        "description": "",
+        "url": "https://www.banglainsider.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bangla-insider.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "UNB",
+        "description": "",
+        "url": "https://unb.com.bd/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/unb.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "BSS News",
+        "description": "",
+        "url": "https://www.bssnews.net/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bssnews.net.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Barta24",
+        "description": "",
+        "url": "https://barta24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/barta24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Amar Desh",
+        "description": "",
+        "url": "https://amar-desh24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/amardesh-24.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Sarabangla",
+        "description": "",
+        "url": "https://sarabangla.net/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/sarabangla.webp",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Breaking News",
+        "description": "",
+        "url": "https://breakingnews.com.bd/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/breakingnews.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dhaka Times",
+        "description": "",
+        "url": "https://thedhakatimes.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dhakatimes.com.bd.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "DMP News",
+        "description": "",
+        "url": "https://dmpnews.org/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dmpnews.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Natun Barta",
+        "description": "",
+        "url": "https://natunbarta.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/natunbarta.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "The Report 24",
+        "description": "",
+        "url": "http://bangla.thereport24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/thereport24.com.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Somoyer Konthoso",
+        "description": "",
+        "url": "https://somoyerkonthosor.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/somoyerkonthosor.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla Telegraph",
+        "description": "",
+        "url": "https://www.banglatelegraph.com",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/banglatelegraph.gif",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bdview24",
+        "description": "",
+        "url": "https://bdview24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bdview24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bd Journal365",
+        "description": "",
+        "url": "https://bdjournal365.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bdjournal365.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Artho Suchak",
+        "description": "",
+        "url": "https://www.arthosuchak.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/arthosuchak.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Share News 24",
+        "description": "",
+        "url": "https://sharenews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/sharenews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Sunbd24",
+        "description": "",
+        "url": "https://sunbd24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/sunbd24.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Orthosongbad",
+        "description": "",
+        "url": "https://orthosongbad.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/orthosongbad.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Poriborton",
+        "description": "",
+        "url": "https://poriborton.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/poriborton.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Nagorik Kantha",
+        "description": "",
+        "url": "https://nagorikkantha.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/nagorikkantha.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Media Khabor",
+        "description": "",
+        "url": "https://mediakhabor.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/mediakhabor.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Sotta Sangbad",
+        "description": "",
+        "url": "https://ajkersottasangbad24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/ajkersottasangbad24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dhaka Post",
+        "description": "",
+        "url": "https://thedhakapost.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/thedhakapost.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "1News BD",
+        "description": "",
+        "url": "https://www.onenewsbd.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/1newsbd.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Aparadh Chokh",
+        "description": "",
+        "url": "https://aparadhchokh24bd.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/aparadhchokh24bd.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Desh News",
+        "description": "",
+        "url": "https://deshnews.net/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/deshnews.net.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Times World",
+        "description": "",
+        "url": "https://timesworld24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/timesworld24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "RTNN",
+        "description": "",
+        "url": "https://rtnn.net/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/rtnn.net.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Desher Sangbad",
+        "description": "",
+        "url": "https://deshersangbad.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/deshersangbad.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Last News Bd",
+        "description": "",
+        "url": "https://lastnewsbd.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/lastnewsbd.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla Daily 24",
+        "description": "",
+        "url": "https://bangladaily24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bangladaily24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Protikhon",
+        "description": "",
+        "url": "https://protikhon.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/protikhon.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Prime News",
+        "description": "",
+        "url": "https://primenewsbd.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/primenewsbd.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "MTNews",
+        "description": "",
+        "url": "https://mtnews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/mtnews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Deshe Bideshe",
+        "description": "",
+        "url": "https://deshebideshe.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/deshebideshe.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Boichitra News",
+        "description": "",
+        "url": "https://boichitranews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/boichitranews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Barta Bangla",
+        "description": "",
+        "url": "https://bartabangla.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bartabangla.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Sangbad Protidin",
+        "description": "",
+        "url": "https://sangbadprotidin24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/sangbadprotidin24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "BD Type",
+        "description": "",
+        "url": "https://bdtype.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bdtype.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Zoom Bangla",
+        "description": "",
+        "url": "https://zoombangla.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/news.zoombangla.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Sheersha Sangbad",
+        "description": "",
+        "url": "https://sheershasangbad.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/sheershasangbad.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "SNN24",
+        "description": "",
+        "url": "https://snn24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/snn24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Alert News",
+        "description": "",
+        "url": "https://alertnews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/alertnews24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Crime Reporter",
+        "description": "",
+        "url": "https://crimereporter24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/crimereporter24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Khobor Protidin",
+        "description": "",
+        "url": "https://khoborprotidin24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/khoborprotidin24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "BD Cricteam",
+        "description": "",
+        "url": "https://bdcricteam.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bdcricteam.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Shersha News",
+        "description": "",
+        "url": "https://shershanews24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/shershanews24.com.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bbc 24 News",
+        "description": "",
+        "url": "https://bbc24news.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bbc24news.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Tulpar24",
+        "description": "",
+        "url": "https://tulpar24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/tulpar24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla Kagoj24",
+        "description": "",
+        "url": "https://banglakagoj24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/banglakagoj24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Latest bd news",
+        "description": "",
+        "url": "https://latestbdnews.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/latestbdnews.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Barta Bazar",
+        "description": "",
+        "url": "https://bartabazar.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bartabazar.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dhaka Protidin",
+        "description": "",
+        "url": "https://dhakaprotidin.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dhakaprotidin.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Eibela",
+        "description": "",
+        "url": "https://eibela.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/eibela.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Sada Kalo",
+        "description": "",
+        "url": "https://sadakalo24.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/sadakalo24.com.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "PBD",
+        "description": "",
+        "url": "https://www.ppbd.news/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/purbo-poshchim-bd.png",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Techshohor",
+        "description": "",
+        "url": "https://techshohor.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/techshohor.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      },
+      {
+        "name": "Tech Zoom",
+        "description": "",
+        "url": "https://techzoom.tv/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/techzoom.jpg",
+        "category": "ONLINE",
+        "language": "Bangla"
+      }
+    ]
+  }
 ]
