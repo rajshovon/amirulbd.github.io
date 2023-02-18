@@ -1,15 +1,23 @@
 [
     {
-        "category": "Most Popular",
+        "category": "Top Newspaper",
         "items":
         [
             {
-                "name": "The New York Times",
+                "name": "Daily Prothom alo",
                 "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://www.nytimes.com/",
-                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "url": "https://www.prothomalo.com/",
+                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/prothom-alo.com.jpg",
                 "category": "Most Popular",
-                "language": "English"
+                "language": "Bangla"
+            },
+             {
+                "name": "Ittefaq",
+                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
+                "url": "https://www.ittefaq.com.bd/",
+                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/ittefaq.com.bd.jpg",
+                "category": "Most Popular",
+                "language": "Bangla"
             }
         ]
     },
