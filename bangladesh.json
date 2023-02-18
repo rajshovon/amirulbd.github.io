@@ -10,7 +10,13 @@
                 "iconUrl": "https://www.nytimes.com/favicon.ico",
                 "category": "Most Popular",
                 "language": "English"
-            },
+            }
+        ]
+    },
+    {
+        "category": "Most Popular",
+        "items":
+        [
             {
                 "name": "The New York Times",
                 "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
@@ -19,40 +25,62 @@
                 "category": "Most Popular",
                 "language": "English"
             },
-             
-        ]
-    },
-    
-    {
-        "category": "Local",
-        "items":
-        [
-            {
-                "name": "Daily Azadi",
-                "description": "",
-                "url": "https://dainikazadi.net/",
-                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dainikazadi.org.png",
-                "category": "Local",
-                "language": "Bangla"
-            },
-            {
-                "name": "Daily Purbokone",
+             {
+                "name": "The New York Times",
                 "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://dainikpurbokone.net/",
-                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dainikpurbokone.net.png",
-                "category": "Local",
+                "url": "https://www.nytimes.com/",
+                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "category": "Most Popular",
                 "language": "English"
             },
              {
-                "name": "Daily Purbokone",
+                "name": "The New York Times",
                 "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
-                "url": "https://dainikpurbokone.net/",
-                "iconUrl": "https://www.allbanglanewspaper.xyz/assets/dainikpurbokone.net.png",
-                "category": "Local",
+                "url": "https://www.nytimes.com/",
+                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "category": "Most Popular",
                 "language": "English"
-            },
-             
+            }
         ]
     },
-
+    {
+        "category": "Most Popular",
+        "items":
+        [
+            {
+                "name": "The New York Times",
+                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
+                "url": "https://www.nytimes.com/",
+                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "category": "Most Popular",
+                "language": "English"
+            },
+             {
+                "name": "The New York Times",
+                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
+                "url": "https://www.nytimes.com/",
+                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "category": "Most Popular",
+                "language": "English"
+            },
+             {
+                "name": "The New York Times",
+                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
+                "url": "https://www.nytimes.com/",
+                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "category": "Most Popular",
+                "language": "English"
+            },
+             {
+                "name": "The New York Times",
+                "description": "A leading source of news and opinion, covering politics, business, technology, and more.",
+                "url": "https://www.nytimes.com/",
+                "iconUrl": "https://www.nytimes.com/favicon.ico",
+                "category": "Most Popular",
+                "language": "English"
+            }
+        ]
+    }
+    
+    
 ]
